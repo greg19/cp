@@ -48,13 +48,14 @@ int main(int argc, char* argv[]) {
 ```
 
 ```sh
+# skr.sh
 ./gen.e $i > tst.in
 ```
 
 ## Generowanie skomplikowanych struktur
 
-Aby wygenerować drzewo można użyć [tej metody](tree.cpp).
+Aby wygenerować drzewo można użyć [tej metody](gens/tree.cpp).
 
 Generowanie bardzie zaawansowanych struktur może wydawać się trudne, choć wcale
-takie nie jest. Przykład generowania grafu można znaleźć [tutaj](graph.cpp).
+takie nie jest. Przykład generowania grafu można znaleźć [tutaj](gens/graph.cpp).
 
