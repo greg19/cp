@@ -1,5 +1,11 @@
 # Testowanie
 
+Aby testować nasz program potrzebujemy kilku rzeczy:
+- Wzorcówkę którą chcemy przetestować (`wzo.cpp`)
+- Bruta z którym będziemy porównywać (`brt.cpp`)
+- Generatorkę testów (`gen.cpp`)
+- Skrypt testujący (`skr.sh`/`skr.py`)
+
 ## Skrypt testujący
 
 [Skrypt w bashu](skr.sh)
